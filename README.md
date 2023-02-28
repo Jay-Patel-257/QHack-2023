@@ -13,6 +13,6 @@ This project is aimed at finding the ground state energy of Beryllium Hydride ($
 Parmanu
 
 ### Authors:
-Jay Patel\\
-Haripriya Narahari\\
+Jay Patel<br>
+Haripriya Narahari<br>
 Kavit Shah
