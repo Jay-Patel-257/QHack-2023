@@ -5,6 +5,9 @@ This project is aimed at finding the ground state energy of Beryllium Hydride ($
 
 Detalied Implementation can be found in this [file](/GroundStateEnergyBeH2.ipynb).
 
+### Results:
+![Results Plot](/images/result.png "Results Plot")
+
 ### Tech Stack:
 - Python
 - Numpy
