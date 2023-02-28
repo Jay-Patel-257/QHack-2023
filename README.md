@@ -3,7 +3,7 @@
 ### About Project:
 This project is aimed at finding the ground state energy of Beryllium Hydride ($BeH_2$) at differennt bond length between Berillium($Be$) and Hydrogen($H$) atoms. To do so we use Hybrid Quantum Classical algorithm called Variational Quantum Eigensolver or VQE for $BeH_2$ molecule at equilibrium angle $180^o$ ($H - Be  - H$).
 
-Detalied Implementation can be found in this (/GroundStateEnergyBeH2.ipynb)[file].
+Detalied Implementation can be found in this (file)[/GroundStateEnergyBeH2.ipynb].
 
 ### Tech Stack:
 - Python
